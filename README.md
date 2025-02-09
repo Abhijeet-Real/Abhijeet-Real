@@ -86,7 +86,7 @@ I'm always seeking opportunities to transform analytical insights into actionabl
 
 - **Programming**: Python, C++, Java, PHP.
 - **Data Science**: Machine Learning, EDA, Model Validation, Data Visualization.
-- **Tools**: Power BI, .
+- **Tools**: Power BI.
 
 ### **Soft Skills**
 
