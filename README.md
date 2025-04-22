@@ -3,11 +3,11 @@
 # Abhijeet - Data Science & AI 
 
 \
-📧 [Email Me](mailto:abhijeet1472@gmail.com) | 📞 +91 8368256883
+ [Email Me](mailto:abhijeet1472@gmail.com) |  +91 8368256883
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 A proactive professional with a passion for **Big Data Analytics**, **AI solutions**, and **Data Science**. I specialize in:
 
@@ -19,7 +19,7 @@ I'm always seeking opportunities to transform analytical insights into actionabl
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 1. **CIBMTR Data Analysis** *(Currently Ongoing)*
 
@@ -66,21 +66,21 @@ I'm always seeking opportunities to transform analytical insights into actionabl
 - [View Repository](https://github.com/Abhijeet-Real/Stable-Diffusion)
 ---
 
-## 🎓 Education
+##  Education
 
 - **PGDM (Big Data Analytics)**, FORE School of Management, Delhi *(2026)*
 - **B.Sc.** Shivaji College, Delhi *(2023)*
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 - **Marketing Analytics**: Enhanced analytical and strategic decision-making.
 - **Statistics for Data Science & Business Analysis**: Advanced training in statistical methodologies.
 
 ---
 
-## 🔧 Skills
+##  Skills
 
 ### **Technical Skills**
 
@@ -94,7 +94,7 @@ Leadership, Business Acumen, Communication.
 
 ---
 
-## 🌟 Achievements
+##  Achievements
 
 - **Finalist** in *TechTonic Shift: The Analytics Challenge - Data Conundrum* as part of **Team Analytical Nexus**.
 - **25th Rank** in Datapro Digital Marketing Quiz.
