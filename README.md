@@ -3,8 +3,7 @@
 # Abhijeet - Data Science & AI 
 
 \
- [Email Me](mailto:abhijeet1472@gmail.com) |  +91 8368256883
-
+ [Email Me](mailto:abhijeet1472@gmail.com)
 ---
 
 ##  About Me
