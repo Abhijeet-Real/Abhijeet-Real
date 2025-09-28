@@ -3,7 +3,7 @@
 # Abhijeet - Data Science & AI 
 
 \
- [Email Me](mailto:abhijeet1472@gmail.com)
+ [Email Me](mailto:Abhijeet-Real@zohomail.in)
 ---
 
 ##  About Me
