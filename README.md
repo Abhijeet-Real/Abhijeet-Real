@@ -1,8 +1,3 @@
-Below is a **GitHub README–optimized version**: concise, scannable, recruiter-friendly, and suitable for first impression on a repo landing page.
-(Email is **plain text and visible**, as you requested.)
-
----
-
 # **Abhijeet — Data Science & Analytics**
 
 📧 **Email:** [Abhijeet-Real@zohomail.in](mailto:Abhijeet-Real@zohomail.in)
