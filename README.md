@@ -1,109 +1,94 @@
----
-
-# Abhijeet - Data Science & AI 
-
-\
- [Email Me](mailto:Abhijeet-Real@zohomail.in)
- <br>
- Abhijeet-Real@zohomail.in
----
-
-##  About Me
-
-A proactive professional with a passion for **Big Data Analytics**, **AI solutions**, and **Data Science**. I specialize in:
-
-- Creating predictive models using **Machine Learning**.
-- Developing **interactive dashboards** for enhanced user experiences.
-- Leveraging **generative AI** to build innovative applications.
-
-I'm always seeking opportunities to transform analytical insights into actionable strategies.
+Below is a **GitHub README–optimized version**: concise, scannable, recruiter-friendly, and suitable for first impression on a repo landing page.
+(Email is **plain text and visible**, as you requested.)
 
 ---
 
-##  Projects
+# **Abhijeet — Data Science & Analytics**
 
-### 1. **CIBMTR Data Analysis** *(Currently Ongoing)*
-
-- **Objective**: Analyzed medical datasets to uncover trends and correlations, creating predictive models to improve healthcare outcomes.
-- **Key Achievements**:
-  - Delivered 65.4% model accuracy, ranking in the **97.61 percentile** against a 67% benchmark.
-- **Timeline**: 2024 - Present
-- [View Repository](https://github.com/Abhijeet-Real/CIBMTR)
-
-### 2. **Import-Export Data Analysis**
-
-- **Objective**: Leveraged machine learning techniques to analyze global trade data, focusing on clustering and regression methods.
-- **Key Contributions**:
-  - Discovered actionable trends to enhance trade efficiency.
-  - Designed strategies to optimize and boost global trade growth.
-- **Timeline**: 2024
-- [View Repository](https://github.com/Abhijeet055002/Term-2_Project-2)
-
-### 3. **McDonald's Data Management System** *(Currently Ongoing)*
-
-- **Objective**: Designed and implemented a sophisticated data management system for McDonald's, focusing on creating an Entity-Relationship Diagram (ERD) to structure business processes efficiently.
-- **Key Contributions**:
-  - Developed a comprehensive CRUD-based relational database to manage operational workflows seamlessly.
-  - Conducted rigorous stress testing to ensure system scalability and performance under high transactional loads.
-  - Applied data normalization techniques to enhance database integrity and query performance.
-- **Timeline**: 2024 - Present
-
-
-### 4. **MNIST Digit Classification** *(Currently Ongoing)*
-
-- **Objective**: Built a deep learning model to classify handwritten digits using the MNIST dataset.
-- **Tech Stack**: Python, TensorFlow, Keras.
-- **Timeline**: 2025 - Present
-- [View Repository](https://github.com/Abhijeet055002/MNIST)
-
-### 5. **Stable Diffusion Image Generation**
-
-- **Objective**: Developed a GPU-accelerated GUI for AI-based text-to-image generation.
-- **Key Features**:
-  - Multithreading to solve GUI freezing.
-  - Customizable features like adjustable inference steps and guidance scale sliders.
-  - Modular design for scalability.
-- **Timeline**: 2024
-- [View Repository](https://github.com/Abhijeet-Real/Stable-Diffusion)
----
-
-##  Education
-
-- **PGDM (Big Data Analytics)**, FORE School of Management, Delhi *(2026)*
-- **B.Sc.** Shivaji College, Delhi *(2023)*
+📧 **Email:** [Abhijeet-Real@zohomail.in](mailto:Abhijeet-Real@zohomail.in)
+🔗 **GitHub:** [https://github.com/Abhijeet-Real](https://github.com/Abhijeet-Real)
 
 ---
 
-##  Certifications
+## **About Me**
 
-- **Marketing Analytics**: Enhanced analytical and strategic decision-making.
-- **Statistics for Data Science & Business Analysis**: Advanced training in statistical methodologies.
-
----
-
-##  Skills
-
-### **Technical Skills**
-
-- **Programming**: Python, C++, Java, PHP.
-- **Data Science**: Machine Learning, EDA, Model Validation, Data Visualization.
-- **Tools**: Power BI.
-
-### **Soft Skills**
-
-Leadership, Business Acumen, Communication.
+Analytics and AI professional with hands-on experience in **data analysis, machine learning, and business-focused problem solving**. Skilled in converting complex data into insights through predictive models, dashboards, and clear analytical storytelling. Interested in roles where analytics and technology support decision-making, growth, and strategy.
 
 ---
 
-##  Achievements
+## **Featured Projects**
 
-- **Finalist** in *TechTonic Shift: The Analytics Challenge - Data Conundrum* as part of **Team Analytical Nexus**.
-- **25th Rank** in Datapro Digital Marketing Quiz.
-- **1st Rank** in the 6th SOF International English Olympiad.
-- Created a vlog to enhance communication skills and foster teamwork.
+### **CIBMTR Data Analysis** *(Ongoing)*
+
+* Built predictive models on large-scale medical datasets to analyze healthcare outcomes.
+* Achieved **65.4% accuracy**, ranking in the **97.61 percentile** against benchmark models.
+* **Repo:** [https://github.com/Abhijeet-Real/CIBMTR](https://github.com/Abhijeet-Real/CIBMTR)
 
 ---
 
-© Abhijeet 2025. This resume is licensed under CC BY-NC-ND 4.0.  
-You may download and share it for informational purposes only.  
-No modifications or commercial use allowed.  
+### **Import–Export Data Analysis**
+
+* Applied clustering and regression techniques to global trade data.
+* Identified actionable patterns to support trade efficiency and planning.
+* **Repo:** [https://github.com/Abhijeet055002/Term-2_Project-2](https://github.com/Abhijeet055002/Term-2_Project-2)
+
+---
+
+### **McDonald’s Data Management System** *(Ongoing)*
+
+* Designed ERD-based relational database for operational workflows.
+* Implemented CRUD operations, normalization, and scalability testing.
+
+---
+
+### **MNIST Digit Classification** *(Ongoing)*
+
+* Developed and benchmarked ML/DL models for handwritten digit recognition.
+* Focused on accuracy, validation, and error analysis.
+* **Tech:** Python, TensorFlow, Keras
+* **Repo:** [https://github.com/Abhijeet055002/MNIST](https://github.com/Abhijeet055002/MNIST)
+
+---
+
+### **Stable Diffusion Image Generator**
+
+* Built a GPU-accelerated desktop GUI for text-to-image generation.
+* Improved UX using multithreading and modular design.
+* **Repo:** [https://github.com/Abhijeet-Real/Stable-Diffusion](https://github.com/Abhijeet-Real/Stable-Diffusion)
+
+---
+
+## **Education**
+
+* **PGDM (Big Data Analytics)** — FORE School of Management, New Delhi *(2026)*
+* **B.Sc. (Physical Sciences)** — Shivaji College, University of Delhi *(2023)*
+
+---
+
+## **Certifications**
+
+* Marketing Analytics
+* Statistics for Data Science & Business Analysis
+
+---
+
+## **Skills**
+
+**Technical:**
+Python, C++, Java, PHP, Machine Learning, EDA, Model Evaluation, Data Visualization, Power BI
+
+**Professional:**
+Business Acumen, Communication, Leadership, Problem Framing
+
+---
+
+## **Achievements**
+
+* **National Finalist** — TechTonic Shift (SPJIMR OJAS XVII, 2025), analytics case competition
+* **Top 25 (National)** — Digital Marketing Quiz, Datapro Computers
+* **1st Rank** — 6th SOF International English Olympiad
+
+---
+
+© Abhijeet, 2025
+Licensed under **CC BY-NC-ND 4.0**
